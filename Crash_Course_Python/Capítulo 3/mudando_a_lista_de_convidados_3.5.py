@@ -1,4 +1,5 @@
-# 3.5 Mudando a lista de convidados: Você acabou de ficar sabendo que um dos convidados não conseguirá ir ao jantar,
+# 3.5 Mudando a lista de convidados: 
+# Você acabou de ficar sabendo que um dos convidados não conseguirá ir ao jantar,
 # assim precisa enviar um conjunto novo de convites. É necessário convidar outra pessoa.
 #    - Comece com o programa do Exercício 3.4. No final do programa, adicione um "print()",
 #      informando o nome do convidado que não irá ao jantar.

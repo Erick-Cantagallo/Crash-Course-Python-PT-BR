@@ -1,4 +1,5 @@
-# 3.3 Sua própria lista: Pense em seu meio de transporte favorito,
+# 3.3 Sua própria lista: 
+# Pense em seu meio de transporte favorito,
 # como uma moto ou um carro, e crie uma lista que armazene dirversos exemplos.
 # Use sua lista para exibir uma série de declarações sobre esses itens,
 # como "Gostaria de ter uma moto da Honda".

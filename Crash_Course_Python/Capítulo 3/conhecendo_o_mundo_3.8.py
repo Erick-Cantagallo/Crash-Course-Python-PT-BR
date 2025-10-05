@@ -1,4 +1,5 @@
-# 3.8 Conhecendo o mundo: Pense em pelo menos cinco lugares do mundo que você gostaria de conhecer.
+# 3.8 Conhecendo o mundo: 
+# Pense em pelo menos cinco lugares do mundo que você gostaria de conhecer.
 #    - Armazene esses locais em uma lista. Verifique se ela não esta em ordem alfabética.
 #    - Exiba sua lista na ordem original. Não se preocupe em exibir a lista ordenadamente;
 #      basta exibi-la como uma lista crua do Python.

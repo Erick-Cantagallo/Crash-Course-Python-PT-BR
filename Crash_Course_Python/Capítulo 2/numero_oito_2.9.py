@@ -1,4 +1,5 @@
-# 2.9 Número Oito: Excreva operações de adição, subtração, multiplicação e divisão que resultem cada uma no número 8.
+# 2.9 Número Oito: 
+# Excreva operações de adição, subtração, multiplicação e divisão que resultem cada uma no número 8.
 # Não se esqueça de incluir suas operações em um print() para conferir os resultados. 
 # Você deve criar quatro linhas mais ou menos assim:
 

@@ -1,4 +1,5 @@
-# 2.11 Adicionando comentários: Escolha dois dos programas que você escreveu e adicione pelo menos um comentário a cada um.
+# 2.11 Adicionando comentários: 
+# Escolha dois dos programas que você escreveu e adicione pelo menos um comentário a cada um.
 # Caso não tenha nada específico para escrever porque até agora seus programas são muito simples,
 # basta acrescentar seu nome e a data atual do inicio de cada arquivo do programa. Em seguida, 
 # escreva uma frase descrevendo o que o programa faz.

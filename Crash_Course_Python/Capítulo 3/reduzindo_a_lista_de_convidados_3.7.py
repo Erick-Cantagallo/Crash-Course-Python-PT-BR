@@ -1,4 +1,5 @@
-# 3.7 Reduzindo a lista de convidados: Você acabou de descobrir que sua mesa nova de jantar
+# 3.7 Reduzindo a lista de convidados: 
+# Você acabou de descobrir que sua mesa nova de jantar
 # não chegará a tempo e agora tem espaço somente para dois convidados.
 #    - Comece com o programa do Exercício 3.6. Adicione uma linha nova que exiba uma mensagem
 #      que você pode convidar apenas duas pessoas para o jantar.

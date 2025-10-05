@@ -36,6 +36,12 @@ Cada capítulo possui um Jupyter Notebook (`.ipynb`) com resumos/anotações e a
    - Acesso por índices e fatiamento  
    - Métodos de adição, remoção e ordenação de elementos
 
+
+4. **Capítulo 4 – Trabalhando com Listas**  
+   - Estruturas de repetição `for`  
+   - Funções `range()` e geração de sequências  
+   - List comprehensions  
+
 ...
 
 ---

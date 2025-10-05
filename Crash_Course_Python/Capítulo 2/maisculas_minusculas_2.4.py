@@ -5,5 +5,5 @@
 nome = "Caio júlio césar"
 print(nome.lower()) #tudo minúsculo
 print(nome.upper()) #tudo maiúsculo
-print(nome.capitalize()) #só a primeira lete maiúscula
+print(nome.capitalize()) #só a primeira letra maiúscula
 print(nome.title()) #todo início de palavra maiúsculo

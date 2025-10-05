@@ -1,4 +1,5 @@
-# 3.11 Erro intencional: Se você ainda não recebeu um erro de índice em um dos seus programas, 
+# 3.11 Erro intencional: 
+# Se você ainda não recebeu um erro de índice em um dos seus programas, 
 # tente gerar um. Mude um índice em um de seus programas para gerar um erro de índice. 
 # Faça questão de corrigir o erro antes de fechar o programa.
 

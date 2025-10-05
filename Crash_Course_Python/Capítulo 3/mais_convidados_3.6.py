@@ -1,4 +1,5 @@
-# 3.6 Mais convidados: Você acabou de encontrar uma mesa maior de jantar,
+# 3.6 Mais convidados: 
+# Você acabou de encontrar uma mesa maior de jantar,
 # agora há mais espaço disponível. Convide mais três pessoas para o jantar.
 #    - Comece com o programa do Exercício 3.4 ou 3.5. No final do programa, adicione um "print()",
 #      informando às pessoas que encontrou uma mesa maior.

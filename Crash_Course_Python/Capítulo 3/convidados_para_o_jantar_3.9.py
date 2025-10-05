@@ -1,4 +1,5 @@
-# 3.9 Convidados para o jantar: Recorra a um dos programas dos exercícios 3.4 a 3.5,
+# 3.9 Convidados para o jantar: 
+# Recorra a um dos programas dos exercícios 3.4 a 3.5,
 # e use "len()" para exibir uma mensagem indicando o número de pessoas que você está
 # convidando para jantar.
 

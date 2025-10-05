@@ -1,4 +1,5 @@
-# 3.2 Cumprimentos: Comece com a lista usada no Exercício 3.1,
+# 3.2 Cumprimentos: 
+# Comece com a lista usada no Exercício 3.1,
 # mas em vez de apenas exibir o nome de cada pessoa, 
 # exiba também uma mensagem para elas.
 # O texto de cada mensagem deve ser o mesmo,
