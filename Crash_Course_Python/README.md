@@ -15,6 +15,22 @@ Cada capítulo possui um Jupyter Notebook (`.ipynb`) com resumos/anotações e a
   - Introdução a variáveis e manipulação de strings.
   - Exercícios práticos salvos em arquivos `.py` (`simple_message.py`, `simple_messages.py`, etc.).
 
+- **Capítulo 3 – Listas**  
+  - Criação, modificação e iteração sobre listas.  
+  - Prática com adição, remoção e ordenação de elementos.
+
+- **Capítulo 4 – Trabalhando com Listas**  
+  - Uso de loops `for` e função `range()`.  
+  - Geração de listas automáticas e list comprehensions.
+
+- **Capítulo 5 – Instruções If**  
+  - Estruturas condicionais e operadores lógicos.  
+  - Controle de fluxo com múltiplas condições.
+
+- **Capítulo 6 – Dicionários**  
+  - Estrutura de pares chave–valor.  
+  - Dicionários aninhados e iteração sobre seus elementos.
+
 ---
 
 ## Índice dos Capítulos
@@ -45,6 +61,12 @@ Cada capítulo possui um Jupyter Notebook (`.ipynb`) com resumos/anotações e a
    - Estruturas condicionais  
    - Operadores relacionais e lógicos  
    - Testes de múltiplas condições 
+
+6. **Capítulo 6 – Dicionários**  
+   - Estrutura chave–valor  
+   - Iterando sobre dicionários  
+   - Listas em dicionários e dicionários aninhados  
+
 ...
 
 ---
